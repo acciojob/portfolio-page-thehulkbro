@@ -1,11 +1,15 @@
 
 /* Your CSS Code here. */
-
+.main{
+	background-color: gray;
+	text-align : center;
+}
 .image{
 	width: 500px;
 }
 .name{
 	text-align:center;
-	color: gray;
+	color: black;
+	padding: 20px
 }
 
