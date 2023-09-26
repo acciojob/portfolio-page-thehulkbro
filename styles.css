@@ -1,2 +1,11 @@
 
 /* Your CSS Code here. */
+
+.image{
+	width: 500px;
+}
+.name{
+	text-align:center;
+	color: gray;
+}
+
