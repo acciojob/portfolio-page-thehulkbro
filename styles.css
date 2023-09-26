@@ -4,6 +4,9 @@
 	background-color: gray;
 	text-align : center;
 }
+.pro , .pro1{
+	text-align:left;
+}
 .image{
 	width: 500px;
 }
